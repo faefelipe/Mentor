@@ -1,12 +1,12 @@
 {
-  "name": "Learning WP",
+  "name": "Learning-Webpack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
-  "author": "",
+  "author": "Felipe Almeida",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^2.2.0-rc.0"

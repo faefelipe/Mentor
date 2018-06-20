@@ -9,6 +9,11 @@
   "author": "Felipe Almeida",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.21.0",
     "webpack": "^2.2.0-rc.0"
   }
 }
